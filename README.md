@@ -1,6 +1,6 @@
 # CCOMP2-2.1-2023-1
 
-# Fabian - UCSP
+# Fabian - Universidad Catolica San Pablo
 
 # 16
 
